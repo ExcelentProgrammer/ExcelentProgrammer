@@ -7,9 +7,6 @@
 ![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff)
 ![Php](https://img.shields.io/badge/php-00599C?style=for-the-badge&logo=php&logoColor=ffffff)
 
-<div style="display:flex;">
-  <a href="https://github.com/LUK3D">
-  <img style="margin:2px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=ExcelentProgrammer&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExcelentProgrammer&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+![Azamov Samandar](https://github-readme-stats.vercel.app/api?username=ExcelentProgrammer&show_icons=true&theme=cobalt)
   
